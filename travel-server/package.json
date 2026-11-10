@@ -2,7 +2,7 @@
   "name": "travel-server",
   "version": "1.0.0",
   "private": true,
-  "description": "AI 旅游助手 API",
+  "description": "AI旅游规划助手 API",
   "type": "module",
   "scripts": {
     "start": "node src/index.js"

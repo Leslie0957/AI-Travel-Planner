@@ -8,7 +8,7 @@
           <van-icon name="contact-o" size="30" />
         </div>
         <div>
-          <h1>AI 旅游助手</h1>
+          <h1>AI旅游规划助手</h1>
           <p>移动端行程生成与旅游咨询 Demo</p>
         </div>
       </div>

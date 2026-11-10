@@ -2,7 +2,7 @@
   <div class="page-container">
     <section class="hero-card">
       <p class="eyebrow">AI Travel Planner</p>
-      <h1 class="hero-title">智能旅游规划助手</h1>
+      <h1 class="hero-title">AI旅游规划助手</h1>
       <p class="hero-subtitle">输入目的地、预算和天数，生成可展示、可追问的结构化行程。</p>
     </section>
 
@@ -129,7 +129,7 @@ const features = [
   {
     icon: 'orders-o',
     title: '结构化行程',
-    desc: '按天展示上午、下午、晚上安排，适合面试讲 JSON 渲染。'
+    desc: '按天查看上午、下午和晚上的行程安排。'
   },
   {
     icon: 'exchange',
