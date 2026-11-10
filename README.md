@@ -30,7 +30,3 @@ npm run dev
 ## 接入模型
 
 将 `travel-server/.env.example` 复制为同目录下的 `.env`，填写 `AI_API_KEY` 后重启服务端。示例配置使用 DeepSeek，也可以修改 `AI_API_BASE_URL` 和 `AI_MODEL` 来连接兼容 OpenAI Chat Completions 的接口。
-
-## 项目历史
-
-项目于 2026 年 5 月开始搭建。本仓库于 2026 年 11 月从本地开发版整理导入，提交日期按 5 月的搭建节点回填，源码包含之后的迭代。
